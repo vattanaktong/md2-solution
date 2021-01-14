@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../OneDrive/HTML-folder"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "md2-solution"
+	}
+}
